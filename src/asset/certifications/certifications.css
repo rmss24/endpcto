@@ -1,0 +1,43 @@
+.certifications{
+    background-color: #121212;
+}
+.logos_certifications{
+    width: 150px;
+    filter: invert(96%) sepia(100%) saturate(0%) hue-rotate(102deg) brightness(104%) contrast(104%);
+}
+
+.logo_container{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    justify-items: center;
+    margin-top: 5%;
+}
+
+.title_text_box{
+    font-family: 'PT Serif';
+    color: #fefefe;
+    font-weight: 600;
+    font-size: 25px;
+    padding-top: 2%;
+}
+.text_box{
+    color: #f2f2f2;
+    font-size: 20px;
+    padding-bottom: 2%;
+}
+
+#NurithID{
+    filter:none;
+    margin-top: 13%;
+}
+@media only screen and (max-width: 600px) {
+.logo_container {
+    grid-template-columns: auto auto;
+}
+.text_box {
+    font-size: 14px;
+}
+#NurithID {
+    margin-top: 30%;
+}
+}

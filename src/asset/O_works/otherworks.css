@@ -1,0 +1,55 @@
+.css-qivjh0-MuiStepLabel-label.Mui-active {
+    font-family: 'PT Serif', serif !important;
+    color: #F54747 !important;
+    font-weight: 600 !important;
+}
+.css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root.Mui-active {
+    color: #F54747 !important;
+}
+
+.css-1f5ro5o-MuiButtonBase-root-MuiButton-root {
+    background-color: #F54747 !important;   
+}
+
+.css-1f5ro5o-MuiButtonBase-root-MuiButton-root:hover {
+    background-color: #ff2d2d !important;   
+}
+
+.css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root.Mui-completed {
+    color: #F54747 !important;
+}
+.css-qivjh0-MuiStepLabel-label.Mui-completed{
+        font-family: 'PT Serif', serif !important;
+        color: #F54747 !important;
+        font-weight: 600 !important;
+        font-size: 13px !important;
+}
+.css-18st3fs-MuiButtonBase-root-MuiButton-root{
+    color: #F54747 !important;
+}
+.css-1gunb9i-MuiPaper-root {
+    background-color: #F54747 !important;
+    color: #f2f2f2 !important;
+    border-radius: 10px !important;
+}
+
+.button_reset{
+    color: #F54747 !important;
+    font-weight: 600 !important;
+    background-color: #f2f2f2 !important;
+}
+
+.button_reset:hover{
+    background-color: #ffffff !important;
+}
+.css-1cl7zdz {
+   margin-left: 20%;
+   margin-top: 5%;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .css-1cl7zdz {
+        margin-left: 4%;
+     }
+    }

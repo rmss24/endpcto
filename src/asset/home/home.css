@@ -1,0 +1,50 @@
+.text{
+    font-size: 30px;
+    position: absolute;
+    margin-top: 7%;
+    margin-left: 50%;
+    width: 41%;
+    font-weight: 400;
+}
+.title_text{
+    font-family: 'PT Serif', serif;
+    position: absolute;
+    color: #F54747;
+    font-size: 100px;
+    margin-left: 9%;
+    width: 27%;
+    margin-top: 5%;
+}
+
+    button {
+        margin-top: 19rem;
+        padding: 12px;
+        border: none;
+        background-color: black;
+        color: #f2f2f2;
+        font-weight: 800;
+        border-radius: 11px;
+        margin-left: 41%;
+        position: relative;
+    }
+
+
+@media only screen and (max-width: 600px) {
+    .title_text{
+        width: 100%;
+        margin-top: 5%;
+        position: static;
+        margin-left: 0;
+    }
+    .text{
+        position: static;
+        margin-top: 10%;
+        width: 100%;
+        margin-left: 0;
+        font-size: 25px;
+    }
+
+    button {
+        margin-top: 10%;
+        margin-left: 0%;    }
+  }

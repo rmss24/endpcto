@@ -1,0 +1,14 @@
+body{
+    background-color: #F2F2F2;
+}
+.logo{
+    font-family: 'PT Serif', serif;
+    color: #F54747;
+    font-size: 30px;
+    float: left;
+    margin-left: 5%;
+}
+.Nav{
+    display: flex;
+}
+

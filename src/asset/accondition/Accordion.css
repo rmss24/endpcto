@@ -1,0 +1,27 @@
+.Accordion{
+width: 60%;
+margin-left: 20%;
+}
+
+.title_Accordion{
+font-family: 'PT Serif', serif;
+color: #F54747;
+font-size: 40px;
+}
+
+.Accordion P{
+    color: #F54747;
+    font-weight:600;
+}
+
+.text_Accordion{
+    color: black !important;
+    font-weight: 400 !important;
+}
+
+@media only screen and (max-width: 600px) {
+    .Accordion {
+        width: 90%;
+        margin-left: 5%;
+    }
+    }

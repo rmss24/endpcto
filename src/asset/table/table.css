@@ -1,0 +1,21 @@
+.css-11xur9t-MuiPaper-root-MuiTableContainer-root{    
+    width: 80% !important;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3%;
+}
+
+.css-1ygcj2i-MuiTableCell-root{
+    font-family: 'PT Serif', serif !important;
+    color: #F54747 !important;
+    font-weight: 800 !important;
+    font-size: 18px !important;
+}
+.css-1azl6jz-MuiTableCell-root{
+    font-family: 'PT Serif', serif !important;
+    color: #F54747 !important;
+    font-weight: 500 !important;
+}
+.table{
+    padding: 1px;
+}
