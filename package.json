@@ -1,8 +1,8 @@
 {
-  "homepage": "http://rmss24.github.io/pcto_project",
-  "name": "sp",
+  "homepage": "http://<rmss24>.github.io/<school>",
+  "name": "school",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
@@ -30,7 +30,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
-    "dev": "(yarn run tailwind && yarn run stubby) & yarn run start",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
