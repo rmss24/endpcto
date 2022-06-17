@@ -16,12 +16,11 @@ export default function SimpleAccordion() {
           aria-controls="panel1a-content"
           id="panel1a-header"
         >
-          <Typography>Did u like do that?</Typography>
+          <Typography>How did they enter the rating in PCTO?</Typography>
         </AccordionSummary>
         <AccordionDetails>
           <Typography className='text_Accordion'>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-            malesuada lacus ex, sit amet blandit leo lobortis eget.
+          The choice made by us is to produce a disciplinary assessment where there is a direct connection with the subjects studied in the high school
           </Typography>
         </AccordionDetails>
       </Accordion>
@@ -31,12 +30,11 @@ export default function SimpleAccordion() {
           aria-controls="panel2a-content"
           id="panel2a-header"
         >
-          <Typography>Accordion 2</Typography>
+          <Typography>How to do with credits?</Typography>
         </AccordionSummary>
         <AccordionDetails>
           <Typography className='text_Accordion'>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-            malesuada lacus ex, sit amet blandit leo lobortis eget.
+          they allow to analyze the question of formative credit, but also to introduce the possible disciplinary credit. The training credit is awarded for the certification of recognized activities or by decision of the board.
           </Typography>
         </AccordionDetails>
       </Accordion>
@@ -46,12 +44,11 @@ export default function SimpleAccordion() {
           aria-controls="panel1a-content"
           id="panel1a-header"
         >
-          <Typography>Accordion 3</Typography>
+          <Typography>What role do school tutors play?</Typography>
         </AccordionSummary>
         <AccordionDetails>
           <Typography className='text_Accordion'>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-            malesuada lacus ex, sit amet blandit leo lobortis eget.
+          School tutors have a central role because they plan and cannot limit themselves to checking that the documentation is correct. The design role in this sector also introduces noteworthy innovations in a world like that of the school which has structured its projects very often according to internal lines and which instead must now begin to take seriously the surrounding world.
           </Typography>
         </AccordionDetails>
       </Accordion>

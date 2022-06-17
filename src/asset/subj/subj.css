@@ -41,14 +41,15 @@ font-weight: 800;
 }
 .knowledges{
     display: grid;
-    grid-template-columns: auto auto auto;
+    grid-template-columns: auto auto ;
     width: 80%;
     margin-left: 11%;
+    margin-bottom: 3%;
 }
 .knowledges p{
-
+        height: fit-content;
         margin-right: 3%;
-        padding: 3px;
+        padding: 5px;
         /* padding-right: 9px; */
         background: #f54747;
         text-align: center;
@@ -76,6 +77,18 @@ hr{
     margin-top: 1.5%;
 }
 @media only screen and (max-width: 600px) {
+    .sub{
+        padding-bottom: 20%;
+        grid-template-columns: none;
+    }
+    hr{
+        padding: 4px;
+        margin-left: 37%;
+        margin-top: 3.5%;
+        width: 20%;
+    }
+  }
+  @media only screen and (max-width: 1380px) {
     .sub{
         padding-bottom: 20%;
         grid-template-columns: none;

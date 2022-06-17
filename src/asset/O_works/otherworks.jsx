@@ -11,21 +11,17 @@ import "./otherworks.css"
 const steps= [
   {
     label: 'Analysis',
-    description: `What is there first of all?
-     obviously the analysis of the problem that once realized is explained to the customer how it works and how it is created,
-     Once done we can move on to the second phase that is the scheme!`,
+    description: `To describe an algorithm correctly, it is important to be clear about the objective to be achieved, that is, the results to be obtained.
+    An algorithm must be .... FINISHED: an algorithm must be composed of a finite number of steps and must have a starting point and an end point, upon reaching which the execution of the operations is interrupted. front of the same input data must produce the same results (e.g. the instruction "multiply 2x5" always produces the same result, while the instruction "shoot an arrow at the target" can have different results even if it is aimed at the same archer equipped with its usual bow) .NOT AMBIGUOUS: the steps that make up the algorithm must be interpreted unambiguously by the performer, without leaving any doubts (eg "if the number is large enough then divide it by 3" ambiguous instruction!) REALIZABLE: it is necessary that there is an executor able to execute each step of the algorithm and in a finite time (eg "calculate all the decimal digits of π" will never end as these digits are infinite)`,
   },
   {
-    label: 'Create an ad group',
+    label: 'flow-chart',
     description:
-      'An ad group contains one or more ads which target a shared set of keywords.',
+      'The representation of algorithms: the flow-chart In order to describe an algorithm it is not necessary to know a programming language; the sequence of the instructions can be represented with a semiformal language by means of block diagrams that allow the user to follow the flow of the execution of the instructions, for this reason these diagrams are called flow diagrams or flow-charts. they are formed by SYMBOLS of different shape, each with its own meaning, inside each symbol there is a short text. The LINES with ARROWS that join the various symbols indicate the flow of operations.',
   },
   {
-    label: 'Create an ad',
-    description: `Try out different ad text to see what brings in the most customers,
-              and learn how to enhance your ads using features like ad extensions.
-              If you run into any problems with your ads, find out how to tell if
-              they're running and how to resolve approval issues.`,
+    label: 'Code',
+    description: `The source code must be suitably elaborated to arrive at a program executable by the processor, thus placing itself as the starting point ("source") of the entire process that leads to the execution of the program by the hardware of the machine, and which can include other steps such as precompilation, compilation, interpretation, loading and linking (depending on the type of programming language used) to finish with the installation.`,
   },
 ];
 

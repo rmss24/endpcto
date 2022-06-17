@@ -5,7 +5,7 @@ import cocaCola from '../img/world-of-coca-cola-vector-logo.svg'
 import Mits from '../img/mitsubishi-electric-factory-automation-vector-logo.svg'
 import Cambridge from '../img/cambridge-assessment-international-education-vector-logo.svg'
 import Nurith from '../img/logo-nurith.png'
-
+import Memory from '../memory/memory';
 function Certifications(){
     return(
     <div className='certifications'>
@@ -19,9 +19,10 @@ function Certifications(){
             <img src={Cambridge} alt="Cambridge" className='logos_certifications'/>
             <img src={Nurith} alt="Nurith" className='logos_certifications' id='NurithID'/>
         </div>
-        <p className='text_box'>I studied how to create a website,
-                              or how the Internet works and how much money do I have to spend to improve a company!
+        <p className='text_box'>these are the companies with which I collaborated in this period of school work!
         </p>
+
+        <a href={Memory}><button className='otr'>Treno della memoria</button></a>
     </div>
     );
 }

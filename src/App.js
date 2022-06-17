@@ -10,6 +10,7 @@ import AnimatedCursor from 'react-animated-cursor';
 import CollapsibleTable from './asset/table/table';
 import Chart from './asset/table/table';
 import Map from './asset/table/map/map';
+import Memory from './asset/memory/memory';
 function App() {
   return (
     <div className="App">
@@ -26,8 +27,7 @@ function App() {
         <div className='table'>
           <Chart/>
         </div>
-      <Map/>
-
+      <Memory/>
     </div>
   );
 }

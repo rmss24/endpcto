@@ -30,6 +30,14 @@
     filter:none;
     margin-top: 13%;
 }
+
+.otr{
+    background-color: #f2f2f2;
+    color: #121212;
+    MARGIN-LEFT: 0;
+    MARGIN-TOP: auto;
+    margin-bottom: 2%;
+}
 @media only screen and (max-width: 600px) {
 .logo_container {
     grid-template-columns: auto auto;
