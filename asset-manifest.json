@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/%3Cendpcto%3E/static/css/main.d262be73.css",
-    "main.js": "/%3Cendpcto%3E/static/js/main.37a02d23.js",
-    "static/js/787.618e7926.chunk.js": "/%3Cendpcto%3E/static/js/787.618e7926.chunk.js",
+    "main.js": "/%3Cendpcto%3E/static/js/main.5fe25f5e.js",
+    "static/js/787.252eb350.chunk.js": "/%3Cendpcto%3E/static/js/787.252eb350.chunk.js",
     "static/media/goldoni.png": "/%3Cendpcto%3E/static/media/goldoni.8d546e6bb5d6ee2fb360.png",
     "static/media/ing.png": "/%3Cendpcto%3E/static/media/ing.df74ef8fc1ff6730afc0.png",
     "static/media/inf.png": "/%3Cendpcto%3E/static/media/inf.2d49f4787a5ddac78582.png",
@@ -17,11 +17,11 @@
     "static/media/Leroy_Merlin.svg": "/%3Cendpcto%3E/static/media/Leroy_Merlin.53626063029a2840db694f1fdf519914.svg",
     "index.html": "/%3Cendpcto%3E/index.html",
     "main.d262be73.css.map": "/%3Cendpcto%3E/static/css/main.d262be73.css.map",
-    "main.37a02d23.js.map": "/%3Cendpcto%3E/static/js/main.37a02d23.js.map",
-    "787.618e7926.chunk.js.map": "/%3Cendpcto%3E/static/js/787.618e7926.chunk.js.map"
+    "main.5fe25f5e.js.map": "/%3Cendpcto%3E/static/js/main.5fe25f5e.js.map",
+    "787.252eb350.chunk.js.map": "/%3Cendpcto%3E/static/js/787.252eb350.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d262be73.css",
-    "static/js/main.37a02d23.js"
+    "static/js/main.5fe25f5e.js"
   ]
 }
