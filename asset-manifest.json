@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/%3Cendpcto%3E/static/css/main.d262be73.css",
-    "main.js": "/%3Cendpcto%3E/static/js/main.5fe25f5e.js",
-    "static/js/787.252eb350.chunk.js": "/%3Cendpcto%3E/static/js/787.252eb350.chunk.js",
-    "static/media/goldoni.png": "/%3Cendpcto%3E/static/media/goldoni.8d546e6bb5d6ee2fb360.png",
-    "static/media/ing.png": "/%3Cendpcto%3E/static/media/ing.df74ef8fc1ff6730afc0.png",
-    "static/media/inf.png": "/%3Cendpcto%3E/static/media/inf.2d49f4787a5ddac78582.png",
-    "static/media/calc.png": "/%3Cendpcto%3E/static/media/calc.fe2f9b2c4e38e6a9e423.png",
-    "static/media/logo-nurith.png": "/%3Cendpcto%3E/static/media/logo-nurith.f48c5e99c95d04f58392.png",
-    "static/media/cambridge-assessment-international-education-vector-logo.svg": "/%3Cendpcto%3E/static/media/cambridge-assessment-international-education-vector-logo.b6a3a9009b61f7d520ecc3475a6058d3.svg",
-    "static/media/gpo.jpg": "/%3Cendpcto%3E/static/media/gpo.fc223fbac70ee96f7fbc.jpg",
-    "static/media/sport.jpg": "/%3Cendpcto%3E/static/media/sport.30934a64a4f17250af74.jpg",
-    "static/media/assobiotec-federchimica-vector-logo.svg": "/%3Cendpcto%3E/static/media/assobiotec-federchimica-vector-logo.2ed24db23cecb0531539734b6f98a354.svg",
-    "static/media/world-of-coca-cola-vector-logo.svg": "/%3Cendpcto%3E/static/media/world-of-coca-cola-vector-logo.d91954cfe8fd95111bf7934dc0268973.svg",
-    "static/media/mitsubishi-electric-factory-automation-vector-logo.svg": "/%3Cendpcto%3E/static/media/mitsubishi-electric-factory-automation-vector-logo.509ef0022242190041398c03f30591e8.svg",
-    "static/media/Leroy_Merlin.svg": "/%3Cendpcto%3E/static/media/Leroy_Merlin.53626063029a2840db694f1fdf519914.svg",
-    "index.html": "/%3Cendpcto%3E/index.html",
-    "main.d262be73.css.map": "/%3Cendpcto%3E/static/css/main.d262be73.css.map",
-    "main.5fe25f5e.js.map": "/%3Cendpcto%3E/static/js/main.5fe25f5e.js.map",
-    "787.252eb350.chunk.js.map": "/%3Cendpcto%3E/static/js/787.252eb350.chunk.js.map"
+    "main.css": "/endpcto/static/css/main.d262be73.css",
+    "main.js": "/endpcto/static/js/main.4ef5b151.js",
+    "static/js/787.252eb350.chunk.js": "/endpcto/static/js/787.252eb350.chunk.js",
+    "static/media/goldoni.png": "/endpcto/static/media/goldoni.8d546e6bb5d6ee2fb360.png",
+    "static/media/ing.png": "/endpcto/static/media/ing.df74ef8fc1ff6730afc0.png",
+    "static/media/inf.png": "/endpcto/static/media/inf.2d49f4787a5ddac78582.png",
+    "static/media/calc.png": "/endpcto/static/media/calc.fe2f9b2c4e38e6a9e423.png",
+    "static/media/logo-nurith.png": "/endpcto/static/media/logo-nurith.f48c5e99c95d04f58392.png",
+    "static/media/cambridge-assessment-international-education-vector-logo.svg": "/endpcto/static/media/cambridge-assessment-international-education-vector-logo.b6a3a9009b61f7d520ecc3475a6058d3.svg",
+    "static/media/gpo.jpg": "/endpcto/static/media/gpo.fc223fbac70ee96f7fbc.jpg",
+    "static/media/sport.jpg": "/endpcto/static/media/sport.30934a64a4f17250af74.jpg",
+    "static/media/assobiotec-federchimica-vector-logo.svg": "/endpcto/static/media/assobiotec-federchimica-vector-logo.2ed24db23cecb0531539734b6f98a354.svg",
+    "static/media/world-of-coca-cola-vector-logo.svg": "/endpcto/static/media/world-of-coca-cola-vector-logo.d91954cfe8fd95111bf7934dc0268973.svg",
+    "static/media/mitsubishi-electric-factory-automation-vector-logo.svg": "/endpcto/static/media/mitsubishi-electric-factory-automation-vector-logo.509ef0022242190041398c03f30591e8.svg",
+    "static/media/Leroy_Merlin.svg": "/endpcto/static/media/Leroy_Merlin.53626063029a2840db694f1fdf519914.svg",
+    "index.html": "/endpcto/index.html",
+    "main.d262be73.css.map": "/endpcto/static/css/main.d262be73.css.map",
+    "main.4ef5b151.js.map": "/endpcto/static/js/main.4ef5b151.js.map",
+    "787.252eb350.chunk.js.map": "/endpcto/static/js/787.252eb350.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d262be73.css",
-    "static/js/main.5fe25f5e.js"
+    "static/js/main.4ef5b151.js"
   ]
 }
